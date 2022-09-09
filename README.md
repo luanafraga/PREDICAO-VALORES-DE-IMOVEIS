@@ -1,6 +1,6 @@
 # PREDICAO-VALORES-DE-IMOVEIS
 
-**Projeto Predição de valores de imóvei de SP**
+**Projeto Predição de valores de imóveis de SP**
 
 O projeto foi desenvolvido utilizando linguagem **Python** no Jupyter Notebook. O python possui um série de bibliotecas que nos auxiliam na construção das análises e modelagem dos dados. Neste projeto, foram utilizadas as seguintes:
 
